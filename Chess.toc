@@ -1,0 +1,9 @@
+## Interface: 11500
+## Title: |cFF0070DDSlow4life|r's Chess
+## Notes: Play chess with your friends.
+## Author: Slow4life
+## Version: 1.0
+
+Embed.xml
+
+Core.lua
